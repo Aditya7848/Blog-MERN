@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+.form-login{
+  margin: 0 auto;
+  max-width: 400px;
+}
+.h1-login{
+  text-align: center;
+}
+.input-login{
+  border: 1px solid #ddd;
+  width: 100%;
+  margin-bottom: 5px;
+  border-radius: 5px;    
+  display: block;
+  padding: 5px 10px;
+  background-color: #fff;
+
+  gap: 15px;
+}
+.input-button{
+  width: 100%;
+  display: block;
+  background-color: #555;
+  border: 0;
+  color: #fff;
+  border-radius: 5px;
+  padding: 7px 0;
+}

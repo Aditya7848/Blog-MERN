@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+main {
+  max-width: 1100px;
+  padding: 10px;
+  margin: 0 auto;
+}
+img {
+  max-width: 100%;
+}
+.blog_logo {
+  font-size: 20px;
+  font-weight: bolder;
+}
+header {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+header a {
+  text-decoration: none;
+}
+nav {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+div .post {
+  display: grid;
+  grid-template-columns: 0.8fr 1.2fr;
+  gap: 20px;
+  align-items: start;
+  margin-bottom: 10px;
+}
+.post h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.info {
+  display: flex;
+  gap: 20px;
+}
+.image {
+  padding-top: 10px;
+}
+p.info {
+  color: #888;
+}
+p.summary {
+  margin: 0;
+}
+
+form.login h1,
+form.register h1 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
