@@ -11,6 +11,7 @@ This is a simple MERN stack blog project where a user can create an account and 
 ![4](https://github.com/Aditya7848/Blog-MERN/assets/107929657/3abeff0f-2b4a-4bb4-936e-b0b28c3711db)
 
 
+![1](https://github.com/Aditya7848/Blog-MERN/assets/107929657/6d9938c4-ea40-4a83-b86b-c553072fb9c3)
 
 **Project file structure:
 
