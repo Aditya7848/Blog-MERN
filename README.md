@@ -6,10 +6,10 @@ This is a simple MERN stack blog project where a user can create an account and 
 
 ##Screenshots of this project
 
-![1](https://github.com/Aditya7848/Blog-MERN/assets/107929657/5aa6e5ce-e5a6-4e8c-81a7-b512bc8ac69e)
-![2](https://github.com/Aditya7848/Blog-MERN/assets/107929657/9ea79cc1-4312-4dbf-ad4d-fd4433fc06e3)
-![3](https://github.com/Aditya7848/Blog-MERN/assets/107929657/2412b0c2-1827-41be-84c2-42e4fb309a69)
-![4](https://github.com/Aditya7848/Blog-MERN/assets/107929657/92ce72c5-c749-48c7-bc7f-adcbc7976b7f)
+![1](https://github.com/Aditya7848/Blog-MERN/assets/107929657/aa442e42-a420-466a-a393-a505638485b3)
+![2](https://github.com/Aditya7848/Blog-MERN/assets/107929657/b5ebe7ca-4b0b-418b-b420-3953fb3a3c53)
+![3](https://github.com/Aditya7848/Blog-MERN/assets/107929657/8fd9297c-0ea3-4905-bc05-57475b5c463e)
+![4](https://github.com/Aditya7848/Blog-MERN/assets/107929657/b693adac-e1f8-43a8-b04c-667fdd9a4f65)
 
 
 **Project file structure:**
