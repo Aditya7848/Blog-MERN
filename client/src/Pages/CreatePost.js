@@ -2,7 +2,7 @@ import ReactQuill from "react-quill";
 import "react-quill/dist/quill.snow.css";
 import { useState } from "react";
 import { Navigate } from "react-router-dom";
-
+import "./CreatePost.css";
 const modules = {
   toolbar: [
     [{ header: [1, 2, false] }],
@@ -78,8 +78,9 @@ export default function CreatePost() {
         onChange={(newValue) => setContent(newValue)}
         modules={modules}
         formats={formats}
+        className="quill"
       />
-      <button style={{ marginTop: "5px" }}>Create Post</button>
+      <button className="submit-button">Create Post</button>
     </form>
   );
 }
